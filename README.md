@@ -7,3 +7,4 @@ Works with chat messages, titles, scoreboards.
 # How to use
 copy the files under the directory core into your resourcepacks assets/minecraft/shaders/core directory and you should be good to go.
 To make the text rainbow, make the color of the text #FEFEFE(rgb values are 254,254,254)
+f.e. the command /tellraw @p {"text":"test","color":"#fefefe"} will give you a rainbow text
