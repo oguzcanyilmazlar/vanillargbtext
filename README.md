@@ -2,7 +2,7 @@
 
 # Vanilla rainbow text with shaders
 RGB text like sonoyuncu &amp; craftrise but in vanilla(1.17+).
-Works with chat messages, titles, scoreboards.
+Works with chat messages, titles, scoreboards, tab list.
 
 # How to use
 copy the files under the directory core into your resourcepacks assets/minecraft/shaders/core directory and you should be good to go.
