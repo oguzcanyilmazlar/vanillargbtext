@@ -1,4 +1,4 @@
-![](https://i.gyazo.com/806dcfd5b6dc88201028b3c156c4ec5f.mp4)
+[![Image from Gyazo](https://i.gyazo.com/806dcfd5b6dc88201028b3c156c4ec5f.gif)](https://gyazo.com/806dcfd5b6dc88201028b3c156c4ec5f)
 
 # Vanilla rainbow text with shaders
 RGB text like sonoyuncu &amp; craftrise but in vanilla(1.17+).
